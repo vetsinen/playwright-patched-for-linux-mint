@@ -1,0 +1,16 @@
+{
+  "name": "pw03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "djinni": "npx playwright test djinni --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.38.1",
+    "@types/node": "^20.7.0"
+  }
+}
